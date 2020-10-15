@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=DS_0 Pin=DD1-1
+Removed Pin From Net: NetName=1 Pin=DD1-2
+Removed Pin From Net: NetName=SGND Pin=DD1-3
+Removed Pin From Net: NetName=+5V Pin=DD1-4
+Removed Pin From Net: NetName=SGND Pin=DD1-5
+Removed Pin From Net: NetName=+5V Pin=DD1-6
+Removed Pin From Net: NetName=NetC6_2 Pin=DD1-7
+Removed Pin From Net: NetName=NetC7_2 Pin=DD1-8
+Removed Pin From Net: NetName=2 Pin=DD1-9
+Removed Pin From Net: NetName=4 Pin=DD1-10
+Removed Pin From Net: NetName=8 Pin=DD1-11
+Removed Pin From Net: NetName=PWM_1 Pin=DD1-12
+Removed Pin From Net: NetName=NetDD1_13 Pin=DD1-13
+Removed Pin From Net: NetName=VCC_D Pin=DD1-14
+Removed Pin From Net: NetName=NetDD1_15 Pin=DD1-15
+Removed Pin From Net: NetName=NetDD1_16 Pin=DD1-16
+Removed Pin From Net: NetName=NetDD1_17 Pin=DD1-17
+Removed Pin From Net: NetName=+5V Pin=DD1-18
+Removed Pin From Net: NetName=NetC5_2 Pin=DD1-20
+Removed Pin From Net: NetName=SGND Pin=DD1-21
+Removed Pin From Net: NetName=NetDD1_23 Pin=DD1-23
+Removed Pin From Net: NetName=Lamp_0 Pin=DD1-24
+Removed Pin From Net: NetName=Lamp_1 Pin=DD1-25
+Removed Pin From Net: NetName=Lamp_2 Pin=DD1-26
+Removed Pin From Net: NetName=NetDD1_27 Pin=DD1-27
+Removed Pin From Net: NetName=NetDD1_28 Pin=DD1-28
+Removed Pin From Net: NetName=NetDD1_29 Pin=DD1-29
+Removed Pin From Net: NetName=L_point Pin=DD1-30
+Removed Pin From Net: NetName=R_point Pin=DD1-31
+Removed Pin From Net: NetName=NetDD1_32 Pin=DD1-32
+Added Component: Designator=DD1(*QFP80P900X900X120-32N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA8-16AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA8-16AU/Microchip/view-part/4246640/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DS_0 Pin=DD1-1
+Added Pin To Net: NetName=1 Pin=DD1-2
+Added Pin To Net: NetName=SGND Pin=DD1-3
+Added Pin To Net: NetName=+5V Pin=DD1-4
+Added Pin To Net: NetName=SGND Pin=DD1-5
+Added Pin To Net: NetName=+5V Pin=DD1-6
+Added Pin To Net: NetName=NetC6_2 Pin=DD1-7
+Added Pin To Net: NetName=NetC7_2 Pin=DD1-8
+Added Pin To Net: NetName=2 Pin=DD1-9
+Added Pin To Net: NetName=4 Pin=DD1-10
+Added Pin To Net: NetName=8 Pin=DD1-11
+Added Pin To Net: NetName=PWM_1 Pin=DD1-12
+Added Pin To Net: NetName=NetDD1_13 Pin=DD1-13
+Added Pin To Net: NetName=VCC_D Pin=DD1-14
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-15
+Added Pin To Net: NetName=NetDD1_16 Pin=DD1-16
+Added Pin To Net: NetName=NetDD1_17 Pin=DD1-17
+Added Pin To Net: NetName=+5V Pin=DD1-18
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-20
+Added Pin To Net: NetName=SGND Pin=DD1-21
+Added Pin To Net: NetName=NetDD1_23 Pin=DD1-23
+Added Pin To Net: NetName=Lamp_0 Pin=DD1-24
+Added Pin To Net: NetName=Lamp_1 Pin=DD1-25
+Added Pin To Net: NetName=Lamp_2 Pin=DD1-26
+Added Pin To Net: NetName=NetDD1_27 Pin=DD1-27
+Added Pin To Net: NetName=NetDD1_28 Pin=DD1-28
+Added Pin To Net: NetName=NetDD1_29 Pin=DD1-29
+Added Pin To Net: NetName=L_point Pin=DD1-30
+Added Pin To Net: NetName=R_point Pin=DD1-31
+Added Pin To Net: NetName=NetDD1_32 Pin=DD1-32

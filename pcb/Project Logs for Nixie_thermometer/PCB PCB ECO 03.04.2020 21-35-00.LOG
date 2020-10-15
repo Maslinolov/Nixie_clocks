@@ -1,0 +1,4 @@
+Added Component: Designator=R23(CR2012-0805)
+Added Pin To Net: NetName=DS_0 Pin=R23-1
+Added Pin To Net: NetName=+5V Pin=R23-2
+Added Member To Class: ClassName=mcu Member=Component R23 4.7k
