@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=SGND Pin=C6-1
+Removed Pin From Net: NetName=NetC6_2 Pin=C6-2
+Removed Pin From Net: NetName=SGND Pin=C7-1
+Removed Pin From Net: NetName=NetC7_2 Pin=C7-2
+Removed Pin From Net: NetName=NetC6_2 Pin=DD1-7
+Removed Pin From Net: NetName=NetC7_2 Pin=DD1-8
+Removed Pin From Net: NetName=NetC6_2 Pin=ZQ1-1
+Removed Pin From Net: NetName=NetC7_2 Pin=ZQ1-2
+Removed Member From Class: ClassName=mcu Member=C6
+Removed Member From Class: ClassName=mcu Member=C7
+Added Pin To Net: NetName=NetC7_2 Pin=DD1-7
+Added Pin To Net: NetName=NetC6_2 Pin=DD1-8
+Added Pin To Net: NetName=NetC7_2 Pin=ZQ1-1
+Added Pin To Net: NetName=NetC6_2 Pin=ZQ1-2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetDD1_8
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetDD1_7
+Added Member To Class: ClassName=Power Member=Component VT9 FQD10N20
+Added Member To Class: ClassName=Power Member=Component XP4 PLS-3

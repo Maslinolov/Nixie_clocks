@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=L_0_0 Pin=XP9-1
+Removed Pin From Net: NetName=L_1_0 Pin=XP9-2
+Removed Pin From Net: NetName=L_2_0 Pin=XP9-3
+Removed Pin From Net: NetName=L_3_0 Pin=XP9-4
+Removed Pin From Net: NetName=L_4_0 Pin=XP9-5
+Removed Pin From Net: NetName=L_5_0 Pin=XP10-1
+Removed Pin From Net: NetName=L_6_0 Pin=XP10-2
+Removed Pin From Net: NetName=L_7_0 Pin=XP10-3
+Added Pin To Net: NetName=L_1_0 Pin=XP9-1
+Added Pin To Net: NetName=L_2_0 Pin=XP9-2
+Added Pin To Net: NetName=L_3_0 Pin=XP9-3
+Added Pin To Net: NetName=L_4_0 Pin=XP9-4
+Added Pin To Net: NetName=L_5_0 Pin=XP9-5
+Added Pin To Net: NetName=L_6_0 Pin=XP10-1
+Added Pin To Net: NetName=L_7_0 Pin=XP10-2
+Added Pin To Net: NetName=L_0_0 Pin=XP10-3
