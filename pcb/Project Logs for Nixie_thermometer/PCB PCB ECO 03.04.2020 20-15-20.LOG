@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetDD1_16 Pin=XP1-4
-Removed Pin From Net: NetName=NetDD1_15 Pin=XP1-5
-Change Component Description : Designator=DD1 Old Description=AVR AVR® ATmega Microcontroller IC 8-Bit 16MHz 8KB _4K x 16_ FLASH 32-TQFP _7x7_ New Description=
-AVR AVR® ATmega Microcontroller IC 8-Bit 16MHz 8KB _4K x 16_ FLASH 32-TQFP _7x7_
-
-Added Pin To Net: NetName=NetDD1_15 Pin=XP1-4
-Added Pin To Net: NetName=NetDD1_16 Pin=XP1-5
-Added Member To Class: ClassName=Lamp_C_Unit Member=Component R8 1M

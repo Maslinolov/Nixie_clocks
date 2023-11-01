@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetDD1_23 Pin=DD1-23
-Removed Pin From Net: NetName=R_point Pin=DD1-31
-Added Pin To Net: NetName=R_point Pin=DD1-23
-Added Pin To Net: NetName=NetDD1_23 Pin=DD1-31
-Change Net Name : Old Net Name=NetDD1_23 New Net Name=NetDD1_31
-Added Member To Class: ClassName=mcu Member=Component DD1 ATMEGA8-16AU

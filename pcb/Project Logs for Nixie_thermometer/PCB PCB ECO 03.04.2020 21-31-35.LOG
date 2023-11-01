@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=DS_0 Pin=DD1-1
-Removed Pin From Net: NetName=1 Pin=DD1-2
-Added Pin To Net: NetName=1 Pin=DD1-1
-Added Pin To Net: NetName=DS_0 Pin=DD1-2
-Added Member To Class: ClassName=mcu Member=Component DD1 ATMEGA8-16AU

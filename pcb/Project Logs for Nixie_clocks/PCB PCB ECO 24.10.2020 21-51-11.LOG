@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=Lamp_2 Pin=DD1-30
-Removed Pin From Net: NetName=Lamp_3 Pin=DD1-32
-Added Pin To Net: NetName=Lamp_3 Pin=DD1-30
-Added Pin To Net: NetName=Lamp_2 Pin=DD1-32
